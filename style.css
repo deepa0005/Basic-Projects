@@ -1,0 +1,47 @@
+.button{
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 50px;
+    cursor: pointer;
+    display:inline-block;
+    margin-left: 30px;
+    
+    }
+
+    #grey{
+       
+        height: 50px;
+        width: 50px;
+        background-color: grey;
+    }
+
+    #white{
+        height: 50px;
+        width: 50px;
+        background-color: rgb(250, 248, 248);
+    }
+
+    #blue{
+        height: 50px;
+        width: 50px;
+        background-color: rgb(92, 16, 245);
+    }
+
+    #yellow{
+        height: 50px;
+        width: 50px;
+        background-color: yellow;
+    }
+
+   #green {
+        height: 50px;
+    width: 50px;;
+    background-color: rgb(13, 93, 13);
+   }
+
+    #red{
+        height: 50px;
+        width: 50px;
+        background-color: red;
+    }
+
